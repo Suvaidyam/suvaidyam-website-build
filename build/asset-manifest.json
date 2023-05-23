@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Suvaidyam-Web/static/css/main.9c02e797.css",
+    "main.js": "/Suvaidyam-Web/static/js/main.73c4a45f.js",
+    "static/js/787.8db1ae91.chunk.js": "/Suvaidyam-Web/static/js/787.8db1ae91.chunk.js",
+    "static/media/home-img.jpg": "/Suvaidyam-Web/static/media/home-img.8eddafd832569812db06.jpg",
+    "static/media/group.jpeg": "/Suvaidyam-Web/static/media/group.f5201c4841cf89a22ab3.jpeg",
+    "static/media/nsplsh.webp": "/Suvaidyam-Web/static/media/nsplsh.412207a83a8e136b0d3a.webp",
+    "static/media/hand-img-.webp": "/Suvaidyam-Web/static/media/hand-img-.17d09df789aa8d06ebf0.webp",
+    "static/media/map.webp": "/Suvaidyam-Web/static/media/map.758c5ff08dab54e2a138.webp",
+    "static/media/founder.webp": "/Suvaidyam-Web/static/media/founder.d8dd2ee34fd16c9fb617.webp",
+    "static/media/laptop.webp": "/Suvaidyam-Web/static/media/laptop.8f803dc31f2b2c9773af.webp",
+    "static/media/computer.webp": "/Suvaidyam-Web/static/media/computer.009d2b9e06cea7742f4a.webp",
+    "static/media/involved-img.webp": "/Suvaidyam-Web/static/media/involved-img.9196b3792a0626c254c8.webp",
+    "static/media/office.webp": "/Suvaidyam-Web/static/media/office.f37736dff736aa816458.webp",
+    "static/media/Logo.png": "/Suvaidyam-Web/static/media/Logo.8ed55c3b2425b097eadd.png",
+    "static/media/revicons.eot": "/Suvaidyam-Web/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Suvaidyam-Web/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Suvaidyam-Web/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Suvaidyam-Web/index.html",
+    "main.9c02e797.css.map": "/Suvaidyam-Web/static/css/main.9c02e797.css.map",
+    "main.73c4a45f.js.map": "/Suvaidyam-Web/static/js/main.73c4a45f.js.map",
+    "787.8db1ae91.chunk.js.map": "/Suvaidyam-Web/static/js/787.8db1ae91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c02e797.css",
+    "static/js/main.73c4a45f.js"
+  ]
+}
